@@ -8,4 +8,4 @@
   * Hardik Zala
 
 ## Project Description: 
-We are detecting credit card fraud from [kaggle dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). We first clean the data, analyse the data and do data visualization. 
+We are detecting credit card fraud from [kaggle dataset](https://www.kaggle.com/datasets/dumburanjith/house-sales-prediction-and-classification). We first clean the data, analyse the data and do data visualization. 
